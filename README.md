@@ -1,6 +1,7 @@
 # Predicting Pro Bowl NFL Quarterbacks Using Performance Metrics
 
 ## Introduction
+<img width="280" height="180" alt="download (4)" src="https://github.com/user-attachments/assets/fa3997ef-d8e6-4dd4-a985-93ea9dce5d61" />
 
 ### Background
 Quarterback performance is one of the most important and debated topics in the NFL. Every season, the league selects quarterbacks to the Pro Bowl based on overall performance, fan voting, media attention, and team success. However, these selections are not always based strictly on statistics, which creates debate over whether the best-performing quarterbacks are truly being recognized.
